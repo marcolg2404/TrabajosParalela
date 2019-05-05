@@ -2,7 +2,7 @@
 Tarea 2 para el ramo "Programación paralela y distribuida", basada en el ejemploMPI realizado en clases por el profesor Sebastian Salazar.
 
 ## Stack de Construcción
-Este proyectoe está construido sobre la base de estar usando Ubuntu 18.04 LTS de 64 bits y las herramientas usadas fueron
+Este proyecto está construido sobre la base de estar usando Ubuntu 18.04 LTS de 64 bits y las herramientas usadas fueron
 
 - Make (apt-get install make)
 - Gcc  (apt-get install build-essential)
